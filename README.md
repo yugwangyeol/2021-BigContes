@@ -92,8 +92,8 @@
 
 ## 7. 참고자료
 
-[2021 빅콘테스트 발표 자료]()
-[2021 빅콘테스트 보고서]()
+[2021 빅콘테스트 발표 자료](https://github.com/yugwangyeol/2021-BigContes/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%93%A8%EC%B2%98%EC%8A%A4%EB%A6%AC%EA%B7%B8_%ED%99%8D%EC%88%98ZERO_%EA%B2%BD%ED%86%B5%EB%93%9C%EB%A6%BC%ED%8C%80_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)  
+[2021 빅콘테스트 보고서](https://github.com/yugwangyeol/2021-BigContes/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%93%A8%EC%B2%98%EC%8A%A4%EB%A6%AC%EA%B7%B8_%ED%99%8D%EC%88%98ZERO_%EA%B2%BD%ED%86%B5%EB%93%9C%EB%A6%BC%ED%8C%80_%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 <br>
 
