@@ -99,4 +99,4 @@
 
 ## 8. 증빙자료
 
-[빅콘테스트 수상 홈페이지]https://www.bigcontest.or.kr/introduce/history2021.php)
+[빅콘테스트 수상 홈페이지](https://www.bigcontest.or.kr/introduce/history2021.php)
